@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Insta_Screen</string>
+    <string name="username">Username</string>
+    <string name="_3431">3431</string>
+    <string name="_6560">6560</string>
+    <string name="_217">217</string>
+    <string name="posts">Posts</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="your_name_nyour_bio_goes_here_nand_here_too">Your Name\nYour bio goes here...\nand here too.</string>
+    <string name="yoursite_com_n">yoursite.com\n</string>
+</resources>
